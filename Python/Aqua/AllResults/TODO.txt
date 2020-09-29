@@ -1,0 +1,1 @@
+Perceptron .2 ETA SGD_M  elu broke amnd later results not shown either

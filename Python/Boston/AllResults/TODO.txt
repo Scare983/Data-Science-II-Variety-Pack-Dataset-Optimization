@@ -1,0 +1,6 @@
+Redo all but perceptron and check graphs
+Add data into Excel sheet for Boston
+
+
+SGD PERCEPTRON BROKE
+N3L 1 Eta broke need to record this 

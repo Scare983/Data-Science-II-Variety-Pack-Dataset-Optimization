@@ -1,0 +1,1 @@
+sed -E s/[\"\'\'\'\"]//g Concrete.csv > new.csv

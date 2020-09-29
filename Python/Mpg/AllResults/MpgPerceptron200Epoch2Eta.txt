@@ -1,0 +1,76 @@
+here
+	Adam selu perceptron 
+		Column Index used:[0, 4, 6, 5, 3]
+		NumFeatures forwardSelect Chose:[1, 2, 3, 4, 5]
+		 rCVVales:  [0, 0.71292, 0.85732, 0.85584, 0.8456199999999999]
+		 rBarVaues:  [0, 0.7143610126582278, 0.8464395939086294, 0.8826173027989822, 0.884647193877551]
+	Adam elu perceptron 
+		Column Index used:[0, 4, 6, 3]
+		NumFeatures forwardSelect Chose:[1, 2, 3, 4]
+		 rCVVales:  [0, 0.716, 0.8646, 0.8665199999999998]
+		 rBarVaues:  [0, 0.7133559493670887, 0.8594378172588832, 0.8848396946564886]
+	Adam softmax perceptron 
+		Column Index used:[0, 4, 6, 5]
+		NumFeatures forwardSelect Chose:[1, 2, 3, 4]
+		 rCVVales:  [0, 0.7071799999999999, 0.85092, 0.8423]
+		 rBarVaues:  [0, 0.7167731645569619, 0.8569187817258883, 0.8745358778625955]
+	Adam sigmoid perceptron 
+		Column Index used:[0, 4, 6, 5, 3, 1]
+		NumFeatures forwardSelect Chose:[1, 2, 3, 4, 5, 6]
+		 rCVVales:  [0, 0.7213, 0.8608600000000001, 0.8558600000000001, 0.8384600000000001, 0.8273000000000001]
+		 rBarVaues:  [0, 0.7167731645569619, 0.868506345177665, 0.8887793893129772, 0.9002436224489796, 0.9016130434782609]
+	Adam linear perceptron 
+		Column Index used:[0, 4, 6]
+		NumFeatures forwardSelect Chose:[1, 2, 3]
+		 rCVVales:  [0, 0.6911400000000001, 0.80846]
+		 rBarVaues:  [0, 0.690239493670886, 0.8063365482233502]
+	SGD selu perceptron 
+		Column Index used:[0, 4, 6, 3]
+		NumFeatures forwardSelect Chose:[1, 2, 3, 4]
+		 rCVVales:  [0, 0.71538, 0.86424, 0.6958]
+		 rBarVaues:  [0, 0.7130544303797468, 0.8663903553299492, 0.8776674300254453]
+	SGD elu perceptron 
+		Column Index used:[0, 4, 6, 3, 5, 2, 1]
+		NumFeatures forwardSelect Chose:[1, 2, 3, 4, 5, 6, 7]
+		 rCVVales:  [0, 0.71502, 0.8592000000000001, 0.8690200000000001, 0.87538, 0.86704, 0.6955600000000001]
+		 rBarVaues:  [0, 0.7135569620253164, 0.8670956852791878, 0.8763541984732824, 0.882115306122449, 0.8826260869565217, 0.889654358974359]
+	SGD softmax perceptron 
+		Column Index used:[0, 4, 6, 3, 5, 1]
+		NumFeatures forwardSelect Chose:[1, 2, 3, 4, 5, 6]
+		 rCVVales:  [0, 0.71972, 0.8638600000000001, 0.8759, 0.8717400000000002, 0.8717400000000002]
+		 rBarVaues:  [0, 0.7138584810126583, 0.8698162436548224, 0.8871631043256998, 0.8875841836734694, 0.8881089514066497]
+	SGD sigmoid perceptron 
+		Column Index used:[0, 4, 6, 5, 3, 2]
+		NumFeatures forwardSelect Chose:[1, 2, 3, 4, 5, 6]
+		 rCVVales:  [0, 0.7137, 0.8620600000000002, 0.8683799999999999, 0.87844, 0.8782800000000002]
+		 rBarVaues:  [0, 0.7132554430379747, 0.8697154822335026, 0.8847386768447837, 0.8877867346938776, 0.8900381074168798]
+	SGD linear perceptron 
+		Column Index used:[0, 4, 6]
+		NumFeatures forwardSelect Chose:[1, 2, 3]
+		 rCVVales:  [0, 0.69946, 0.8072000000000001]
+		 rBarVaues:  [0, 0.690239493670886, 0.8062357868020305]
+	SGD_Moment selu perceptron 
+		Column Index used:[0, 4, 6, 3, 1]
+		NumFeatures forwardSelect Chose:[1, 2, 3, 4, 5]
+		 rCVVales:  [0, 0.71938, 0.8536199999999999, 0.87856, 0.70292]
+		 rBarVaues:  [0, 0.7136574683544303, 0.8589340101522842, 0.8772633587786259, 0.8792795918367348]
+	SGD_Moment elu perceptron 
+		Column Index used:[0, 4, 6, 3, 5, 2, 1]
+		NumFeatures forwardSelect Chose:[1, 2, 3, 4, 5, 6, 7]
+		 rCVVales:  [0, 0.71042, 0.8550000000000001, 0.8716199999999998, 0.8747800000000001, 0.70274, 0.7041600000000001]
+		 rBarVaues:  [0, 0.7135569620253164, 0.8636697969543148, 0.877162340966921, 0.8811025510204082, 0.8842506393861893, 0.8849717948717949]
+	SGD_Moment softmax perceptron 
+		Column Index used:[0, 4, 6, 3, 5, 2]
+		NumFeatures forwardSelect Chose:[1, 2, 3, 4, 5, 6]
+		 rCVVales:  [0, 0.71892, 0.85594, 0.87722, 0.88002, 0.87408]
+		 rBarVaues:  [0, 0.7140594936708862, 0.870521573604061, 0.8869610687022901, 0.8885969387755102, 0.8953179028132993]
+	SGD_Moment sigmoid perceptron 
+		Column Index used:[0, 4, 6, 5, 3, 2]
+		NumFeatures forwardSelect Chose:[1, 2, 3, 4, 5, 6]
+		 rCVVales:  [0, 0.7128000000000001, 0.8628600000000001, 0.87126, 0.8717600000000001, 0.8817799999999998]
+		 rBarVaues:  [0, 0.7137579746835443, 0.8703200507614213, 0.8820111959287532, 0.890825, 0.8988716112531969]
+	SGD_Moment linear perceptron 
+		Column Index used:[0, 4, 6, 5]
+		NumFeatures forwardSelect Chose:[1, 2, 3, 4]
+		 rCVVales:  [0, 0.6954800000000001, 0.81516, 0.8120200000000001]
+		 rBarVaues:  [0, 0.690239493670886, 0.80643730964467, 0.8061468193384225]

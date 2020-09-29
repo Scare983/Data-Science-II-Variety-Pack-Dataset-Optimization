@@ -1,0 +1,75 @@
+Adam selu neuralnet_3L 
+		Column Index used:[0, 1]
+		NumFeatures forwardSelect Chose:[1, 2]
+		 rCVVales:  [0, 0.41198000000000007]
+		 rBarVaues:  [0, 0.6087288607594936]
+Adam elu neuralnet_3L 
+		Column Index used:[0, 1]
+		NumFeatures forwardSelect Chose:[1, 2]
+		 rCVVales:  [0, 0.47804]
+		 rBarVaues:  [0, 0.6059146835443038]
+Adam softmax neuralnet_3L 
+		Column Index used:[0]
+		NumFeatures forwardSelect Chose:[1]
+		 rCVVales:  [0]
+		 rBarVaues:  [0]
+Adam sigmoid neuralnet_3L 
+		Column Index used:[0, 1]
+		NumFeatures forwardSelect Chose:[1, 2]
+		 rCVVales:  [0, 0.24785999999999997]
+		 rBarVaues:  [0, 0.17263189873417728]
+Adam linear neuralnet_3L 
+		Column Index used:[0, 4]
+		NumFeatures forwardSelect Chose:[1, 2]
+		 rCVVales:  [0, 0.6920599999999999]
+		 rBarVaues:  [0, 0.690239493670886]
+SGD selu neuralnet_3L 
+		Column Index used:[0]
+		NumFeatures forwardSelect Chose:[1]
+		 rCVVales:  [0]
+		 rBarVaues:  [0]
+SGD elu neuralnet_3L 
+		Column Index used:[0]
+		NumFeatures forwardSelect Chose:[1]
+		 rCVVales:  [0]
+		 rBarVaues:  [0]
+SGD softmax neuralnet_3L 
+		Column Index used:[0, 1]
+		NumFeatures forwardSelect Chose:[1, 2]
+		 rCVVales:  [0, 0.62718]
+		 rBarVaues:  [0, 0.6198850632911392]
+SGD sigmoid neuralnet_3L 
+		Column Index used:[0, 1]
+		NumFeatures forwardSelect Chose:[1, 2]
+		 rCVVales:  [0, 0.6180999999999999]
+		 rBarVaues:  [0, 0.6095329113924051]
+SGD linear neuralnet_3L 
+		Column Index used:[0, 4, 6]
+		NumFeatures forwardSelect Chose:[1, 2, 3]
+		 rCVVales:  [0, 0.69428, 0.73268]
+		 rBarVaues:  [0, 0.690239493670886, 0.7984771573604061]
+SGD_Moment selu neuralnet_3L 
+		Column Index used:[0]
+		NumFeatures forwardSelect Chose:[1]
+		 rCVVales:  [0]
+		 rBarVaues:  [0]
+SGD_Moment elu neuralnet_3L 
+		Column Index used:[0]
+		NumFeatures forwardSelect Chose:[1]
+		 rCVVales:  [0]
+		 rBarVaues:  [0]
+SGD_Moment softmax neuralnet_3L 
+		Column Index used:[0, 1]
+		NumFeatures forwardSelect Chose:[1, 2]
+		 rCVVales:  [0, 0.6185]
+		 rBarVaues:  [0, 0.6148597468354431]
+SGD_Moment sigmoid neuralnet_3L 
+		Column Index used:[0, 1]
+		NumFeatures forwardSelect Chose:[1, 2]
+		 rCVVales:  [0, 0.6158600000000001]
+		 rBarVaues:  [0, 0.6139551898734177]
+SGD_Moment linear neuralnet_3L 
+		Column Index used:[0, 4, 6, 5, 1]
+		NumFeatures forwardSelect Chose:[1, 2, 3, 4, 5]
+		 rCVVales:  [0, 0.69384, 0.5779599999999999, 0.69078, 0.74594]
+		 rBarVaues:  [0, 0.690239493670886, 0.7075903553299492, 0.7309895674300255, 0.765547193877551]
